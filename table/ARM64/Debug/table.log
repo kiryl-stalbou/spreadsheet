@@ -1,0 +1,8 @@
+﻿  cell.cpp
+  main.cpp
+  table.cpp
+  utils.cpp
+  window.cpp
+C:\Users\user\Desktop\SP\lab2\spreadsheet\window.cpp(89,30): warning C4244: 'argument': conversion from 'WPARAM' to 'wchar_t', possible loss of data
+  Generating Code...
+  table.vcxproj -> C:\Users\user\Desktop\SP\lab2\spreadsheet\ARM64\Debug\table.exe
